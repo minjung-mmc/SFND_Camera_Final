@@ -239,8 +239,7 @@ However, as you can see down below, the best performance model from Midterm proj
 |  Frame 17   |        9.61241    |     12.9008 | 
 |  Frame 18   |        8.3988    |     10.8327 | 
 
-[Photo of Lidar Points](./Reference/photoOfLidarPoints.jpg.jpg)
-
+<img src="Reference/photoOfLidarPoints.jpg" width="650" height="700" />
 
 **Why sudden Increase?**
 We  manually estimated the distance to the rear of the preceding vehicle from a top view perspective of the Lidar points. 
