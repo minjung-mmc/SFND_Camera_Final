@@ -392,11 +392,9 @@ Best Performance : Shi-Tomasi + BRIEF
 **TTC of Detector & Descriptor Combinations**
 
 ※ Difference between the number of image frame occured due to no observed bounding box using YOLO. This can be fixed by setting greater size of divided cells in pixels.
-```
-    cv::Size size = cv::Size(416, 416);
+```    cv::Size size = cv::Size(416, 416);
     // cv::Size size = cv::Size(608, 608); 
 ```
-
 
 ### Harris detector & BRISK descriptor 
 
